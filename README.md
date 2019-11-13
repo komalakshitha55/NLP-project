@@ -1,1 +1,2 @@
 # NLP-project
+This notebook focuses on Natural Language Processing. We will visualize the Reviews that people have put forward. And also based on their reviews we will be building a Prediction Model using different machine learning models which signifies whether they are happy or disappointed with the product. This model can be used for business purposes as well and manufacturers can use customer reviews and suggestions to improve their products!
